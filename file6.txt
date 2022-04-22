@@ -1,2 +1,3 @@
 This is file6, Practice file6
 
+Added content through github in file6
